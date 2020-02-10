@@ -1,3 +1,16 @@
+---
+author: Edson Ayllon
+category: functionality
+tags:
+- Utility
+- Javascript
+- ES2019
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+## Modular 38-2019
+
 # fromEntries-Javascript-Utils
 
 ## Scope
